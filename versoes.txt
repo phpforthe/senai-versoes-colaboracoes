@@ -1,1 +1,0 @@
-git add "realizando uma alteração no arquivo versoes.tx"
